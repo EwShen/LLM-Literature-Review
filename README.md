@@ -23,7 +23,8 @@ The development of quantum programming languages started with early theoretical 
 * Mingsheng Ying: An authority on quantum logic and program verification, Ying has contributed significantly to the formal methods for reasoning about quantum programs, ensuring correctness and reliability​.
 
 ## Key Works
-* Quipper: A Scalable Quantum Programming Language: Quipper is widely recognized for its ability to handle complex quantum computations, making it one of the most practical languages for large-scale quantum algorithms. It emphasizes the importance of hardware abstraction and efficient error management, which is crucial for real-world quantum applications​. [Quipper: A Scalable Quantum Programming Language (https://ar5iv.labs.arxiv.org/html/1304.3390)
+* Quipper: A Scalable Quantum Programming Language: Quipper is widely recognized for its ability to handle complex quantum computations, making it one of the most practical languages for large-scale quantum algorithms. It emphasizes the importance of hardware abstraction and efficient error management, which is crucial for real-world quantum applications​.
+[Quipper: A Scalable Quantum Programming Language (https://ar5iv.labs.arxiv.org/html/1304.3390)
 
 * Q#: Microsoft's Domain-Specific Quantum Language: Q# is designed to express quantum algorithms with a focus on integration with classical computation, emphasizing usability for developers transitioning from classical to quantum computing.
 
