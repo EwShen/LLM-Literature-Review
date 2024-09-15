@@ -3,7 +3,7 @@
 Ewan Shen
 
 # Research with ChatGPT-4o
-
+How does quantum programming influence the development of programming languages? What does the ideal quantum programming language look like?
 ---
 
 ## Quantum Programming Background
