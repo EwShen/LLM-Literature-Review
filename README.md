@@ -1,4 +1,4 @@
-# LLM-Literature-Review
+# LLM Literature Review
 
 Ewan Shen
 
