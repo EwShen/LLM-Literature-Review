@@ -1,4 +1,4 @@
-# LLM Literature Review
+# Quantum Programming Languages Literature Review with an LLM
 
 Ewan Shen
 
