@@ -51,3 +51,4 @@ An ideal quantum programming language would balance usability, performance, and 
 * [Quantum programming: From theories to implementations](https://link.springer.com/article/10.1007/s11434-012-5147-6)
 * [Quipper: A Scalable Quantum Programming Language](https://ar5iv.labs.arxiv.org/html/1304.3390)
 * [A Survey of Quantum Programming Languages: History, Methods, and Tools](https://arxiv.org/abs/0804.1118)
+* [Microsoft Q#, The Versatile Microsoft Language for Quantum Computing](https://quantumzeitgeist.com/quantum-computing-microsoft-q/)
