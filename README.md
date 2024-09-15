@@ -5,13 +5,13 @@ Ewan Shen
 ---
 
 ## Quantum Programming Background
-Quantum programming is the practice of writing algorithms and software that operate on quantum computers, differing from classic computers. Classic computers process information in bits that represent either a 0 or a 1. In contrast, quantum computers use quantum bits, or qubits, which can represent 0, 1, or both simultaneously due to quantum superposition. This ability allows quantum computers to perform certain calculations exponentially faster than classic computers.
+Quantum programming is the practice of writing algorithms and software that operate on quantum computers, differing from classic computers. Classic computers process information in bits representing either a 0 or a 1. In contrast, quantum computers use quantum bits, or qubits, representing 0, 1, or both simultaneously due to quantum superposition. This ability allows quantum computers to perform certain calculations exponentially faster than classic computers.
 
 ## Development of Quantum Programming Languages
 The development of quantum programming languages started with early theoretical explorations in quantum logic and computation. Influential early works include Peter Selinger's exploration of quantum semantics and syntax, which laid foundational principles for quantum programming by adapting classic concepts such as lambda calculus and linear logic to the quantum realm.
 
 ## Subfields of Quantum Programming Languages
-* Formal Semantics and Logic: Key contributions came from formal methods like lambda calculus and linear logic, which were adapted to handle quantum operations. These foundations helped in developing languages like QML and QCL, which introduced type systems and operational semantics specifically tailored for quantum computing.
+* Formal Semantics and Logic: Key contributions came from formal methods like lambda calculus and linear logic, which were adapted to handle quantum operations. These foundations helped develop languages like QML and QCL, which introduced type systems and operational semantics specifically tailored for quantum computing.
 
 * Quantum Circuit and Compiler Design: Compiler optimizations, especially those focusing on gate synthesis and error correction, have played a crucial role. For example, the Quipper language emphasizes scalability and expressiveness for practical quantum circuits, addressing issues like gate optimization and hardware independence​.
 
@@ -31,7 +31,7 @@ The development of quantum programming languages started with early theoretical 
 * Mingsheng Ying: An authority on quantum logic and program verification, Ying has contributed significantly to the formal methods for reasoning about quantum programs, ensuring correctness and reliability​.
 
 ## Key Works and Resources
-* Quipper: A Scalable Quantum Programming Language: Quipper is widely recognized for its ability to handle complex quantum computations, making it one of the most practical languages for large-scale quantum algorithms. It emphasizes the importance of hardware abstraction and efficient error management, which is crucial for real-world quantum applications​.
+* Quipper: A Scalable Quantum Programming Language: Quipper is widely recognized for handling complex quantum computations, making it one of the most practical languages for large-scale quantum algorithms. It emphasizes the importance of hardware abstraction and efficient error management, which is crucial for real-world quantum applications​.
 [Quipper: A Scalable Quantum Programming Language](https://ar5iv.labs.arxiv.org/html/1304.3390)
 
 * An introduction to Q# — Microsoft’s language for quantum computing: Q# is designed to express quantum algorithms with a focus on integration with classical computation, emphasizing usability for developers transitioning from classical to quantum computing. [An introduction to Q# — Microsoft’s language for quantum computing](https://medium.com/free-code-camp/an-introduction-to-q-64beaff53a00)
@@ -40,6 +40,10 @@ The development of quantum programming languages started with early theoretical 
 
 ## Quantum Programming Languages in the Future
 The future of quantum programming languages lies in improving abstractions, enhancing error correction capabilities, and making quantum programming more intuitive and accessible. There is also a push toward creating languages that can seamlessly integrate classical and quantum computation, making them versatile for a broader range of applications.
+
+## Summary
+
+An ideal quantum programming language would balance usability, performance, and robustness, combining key characteristics from existing research and languages. Integration of classical and quantum computation is another essential feature, allowing smooth interoperability between classic control structures and quantum operations, as demonstrated by Q# and Quipper. Error handling and debugging tools are particularly important due to the noisy nature of quantum systems. Robust tools for simulating noise, visualizing quantum states, and real-time error correction are necessary, as highlighted in Qiskit and Cirq. Additionally, the language should be hardware-agnostic, enabling code portability across different quantum devices, a goal pursued by Quipper and QCL, which abstracts hardware details away from the developer​. Research has focused on combining formal verification methods and type safety to ensure the correctness of quantum algorithms, as seen in works by Selinger and others on lambda calculus adaptations for quantum computing. Overall, an ideal language would simplify quantum programming, support scalability, and maintain strong correctness guarantees, making quantum computing more accessible and practical.
 
 ## References
 * [Quantum programming: From theories to implementations](https://link.springer.com/article/10.1007/s11434-012-5147-6)
