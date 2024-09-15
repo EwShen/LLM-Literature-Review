@@ -33,4 +33,7 @@ The development of quantum programming languages started with early theoretical 
 ## Quantum Programming Languages in the Future
 The future of quantum programming languages lies in improving abstractions, enhancing error correction capabilities, and making quantum programming more intuitive and accessible. There is also a push toward creating languages that can seamlessly integrate classical and quantum computation, making them versatile for a broader range of applications.
 
-[link to visit](7657657rhgccvm)
+## References
+* [Quantum programming: From theories to implementations](https://link.springer.com/article/10.1007/s11434-012-5147-6)
+* [Quipper: A Scalable Quantum Programming Language](https://ar5iv.labs.arxiv.org/html/1304.3390)
+* [A Survey of Quantum Programming Languages: History, Methods, and Tools](https://arxiv.org/abs/0804.1118)
