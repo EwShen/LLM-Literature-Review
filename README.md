@@ -2,8 +2,10 @@
 
 Ewan Shen
 
----
 # Research with ChatGPT-4o
+
+---
+
 ## Quantum Programming Background
 Quantum programming is the practice of writing algorithms and software that operate on quantum computers, differing from classic computers. Classic computers process information in bits representing either a 0 or a 1. In contrast, quantum computers use quantum bits, or qubits, representing 0, 1, or both simultaneously due to quantum superposition. This ability allows quantum computers to perform certain calculations exponentially faster than classic computers.
 
