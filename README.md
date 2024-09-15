@@ -17,6 +17,14 @@ The development of quantum programming languages started with early theoretical 
 
 * Quantum Algorithm Design: Quantum languages often incorporate constructs directly suited to popular quantum algorithms. For instance, high-level constructs in Quipper and Q# allow for easy implementation of algorithms like Grover’s search or quantum Fourier transforms, which are core components of many quantum applications.
 
+## Examples of Quantum Programming Languages
+
+* Q# is a language developed by Microsoft specifically for quantum computing, integrating well with .NET languages and focusing on seamless interaction between classical and quantum code. It offers robust type safety and an extensive library set, making it suitable for complex quantum algorithms and simulations. Quipper, another significant language, is designed for large-scale quantum computations, emphasizing scalability and the practical implementation of algorithms by abstracting hardware-specific details. It is especially popular among researchers working on complex quantum circuits.
+
+* QCL (Quantum Computation Language) adopts an imperative style similar to C, providing a familiar structure for developers transitioning from classical to quantum programming. It supports quantum data types and allows interactive testing, making it an excellent educational tool. Silq stands out for its high-level abstractions, automatically handling quantum-specific challenges like uncomputation, which reduces errors and simplifies the programming model. This language is ideal for newcomers to quantum computing seeking a more intuitive approach.
+
+* Qiskit, developed by IBM, is a Python-based quantum programming language that provides access to a broad range of quantum tools, including libraries for algorithms, quantum machine learning, and chemistry. It directly connects with IBM’s quantum processors, making it widely used in both research and educational settings. Finally, Google’s Cirq is specialized for creating, simulating, and running quantum circuits, with strong integration with Google’s quantum hardware, making it ideal for NISQ algorithms and near-term quantum computing applications.
+
 ## Influential Researchers and Their Impact
 * Peter Selinger: A prominent figure in quantum programming, Selinger's work on semantics and type systems for quantum computation has deeply influenced the field.
 * Vladimir Kliuchnikov, Dmitri Maslov, and Michele Mosca: Known for their contributions to quantum circuit synthesis and optimization, their research has enhanced the practical aspects of quantum programming by making quantum circuits more efficient and accessible​.
