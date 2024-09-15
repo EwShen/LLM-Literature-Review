@@ -13,7 +13,7 @@ The development of quantum programming languages started with early theoretical 
 ## Subfields of Quantum Programming Languages
 * Formal Semantics and Logic: Key contributions came from formal methods like lambda calculus and linear logic, which were adapted to handle quantum operations. These foundations helped develop languages like QML and QCL, which introduced type systems and operational semantics specifically tailored for quantum computing.
 
-* Quantum Circuit and Compiler Design: Compiler optimizations, especially those focusing on gate synthesis and error correction, have played a crucial role. For example, the Quipper language emphasizes scalability and expressiveness for practical quantum circuits, addressing issues like gate optimization and hardware independence​.
+- Quantum Circuit and Compiler Design: Compiler optimizations, especially those focusing on gate synthesis and error correction, have played a crucial role. For example, the Quipper language emphasizes scalability and expressiveness for practical quantum circuits, addressing issues like gate optimization and hardware independence​.
 
 * Quantum Algorithm Design: Quantum languages often incorporate constructs directly suited to popular quantum algorithms. For instance, high-level constructs in Quipper and Q# allow for easy implementation of algorithms like Grover’s search or quantum Fourier transforms, which are core components of many quantum applications.
 
